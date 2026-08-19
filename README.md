@@ -1,2 +1,5 @@
 # animated-octo-train
-Test of how high and low ? 
+
+![Our world is filled with such beauty, don't you think?](./banner.svg)
+
+Test of how high and low ?
