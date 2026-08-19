@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="200" viewBox="0 0 960 200" role="img" aria-label="Our world is filled with such beauty, don't you think?">
+  <defs>
+    <style type="text/css"><![CDATA[
+      @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+      text { font-family: 'Great Vibes', 'Pacifico', 'Brush Script MT', cursive; }
+    ]]></style>
+  </defs>
+  <rect width="100%" height="100%" fill="#FDF8E1" />
+  <text x="50%" y="50%" font-size="44" fill="#F7C319" text-anchor="middle" dominant-baseline="middle">Our world is filled with such beauty, don't you think?</text>
+</svg>
