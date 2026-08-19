@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+    .bg{fill:#fff}
+    .title{font-family:'Pacifico', cursive; font-size:86px; fill:#111}
+    .sample{font-family:'Pacifico', cursive; font-size:44px; fill:#222}
+    .small{font-family:'Pacifico', cursive; font-size:18px; fill:#333}
+  </style>
+  <rect class="bg" width="100%" height="100%"/>
+  <text x="60" y="120" class="title">Opaline</text>
+  <text x="60" y="200" class="sample">Opaline Studio — Handmade Jewelry</text>
+  <text x="60" y="260" class="sample">Whispering Willow • Handcrafted with Love</text>
+  <text x="60" y="330" class="sample">office • affidavit • fluffy</text>
+  <text x="60" y="380" class="small">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 !@#$%^&*() ©®™ æ œ ß ÁÀÂÄ Ç Ñ مرحبا 世界</text>
+</svg>
